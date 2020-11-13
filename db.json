@@ -1,7 +1,7 @@
 {
   "billItems": [
-    { "id": 1, "title": "Combo plan, 45€" },
-    { "id": 2, "title": "Caller Id, 2€" },
-    { "id": 3, "title": "Roaming data, 23€" }
+    { "id": 1, "title": "Combo plan", "price": "45€" },
+    { "id": 2, "title": "Caller Id", "price": "2€" },
+    { "id": 3, "title": "Roaming data", "price": "23€" }
   ]
 }
