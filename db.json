@@ -1,7 +1,7 @@
 {
   "billItems": [
-    { "id": 1, "title": "Combo plan", "price": "45€" },
-    { "id": 2, "title": "Caller Id", "price": "2€" },
-    { "id": 3, "title": "Roaming data", "price": "23€" }
+    { "id": 1, "title": "Combo plan", "price": "25€", "description": "This is your base plan, that includes unlimited calls and 20Gb of data" },
+    { "id": 2, "title": "IPhone lease", "price": "35€", "description": "This is the monthly fee for the usage of the IPhone" },
+    { "id": 3, "title": "Roaming data", "price": "23€", "description": "This is for the international roaming data used in this month" }
   ]
 }
